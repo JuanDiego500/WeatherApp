@@ -2,7 +2,7 @@
 
 Implement a console-based weather viewer satisfying the scenarios below.
 
-## Instalation .NET
+## Installation .NET
 
 After cloning the repository replace the given api-keys in the appsettings.json file
 with your own
